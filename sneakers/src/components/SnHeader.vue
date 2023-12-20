@@ -1,6 +1,6 @@
 <template>
-  <div class="w-4/5 mx-auto bg-white h-screen rounded-xl shadow-2xl shadow-xl mt-10">
-    <header class="flex align-items-center p-11">
+  <div class="w-4/5 mx-auto bg-white rounded-t-xl shadow-2xl shadow-xl mt-10">
+    <header class="flex align-items-center px-10 py-8 border-b border-slate-300">
       <img src="../public/logo.png" alt="LOGO" class="w-10 h-10" />
       <div class="flex flex-col ms-4">
         <h1 class="font-black mb-0">SNEAKERS SHOP</h1>
