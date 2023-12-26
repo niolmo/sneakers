@@ -4,7 +4,7 @@ import SnCart from './components/SnCart.vue'
 </script>
 
 <template>
-  <div class="wrapper">
+  <div class="w-4/5 mx-auto bg-white h-screen rounded-t-xl shadow-2xl shadow-xl mt-10">
     <SnHeader />
     <SnCart />
   </div>
